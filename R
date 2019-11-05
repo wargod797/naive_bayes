@@ -1,1 +1,0 @@
-Naive_Bayes in R Predicting the Producting the Product Purchase Over a Social Media Ads By Classifying Age and Salary
